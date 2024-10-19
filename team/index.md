@@ -22,7 +22,7 @@ We are an interdisciplinary team of researchers passionate about innovative, rig
 {% endif %}
 
 <div style="flex: 0 0 50%; padding: 10px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" style="width: 100%; height: auto; float: left;"/>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/members_pic/{{ member.photo }}" style="width: 100%; height: auto; float: left;"/>
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden; list-style-type: none; padding: 0;">
