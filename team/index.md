@@ -60,5 +60,3 @@ We are an interdisciplinary team of researchers passionate about innovative, rig
 
 <a style="text-decoration: none; color: inherit;">
 Dr. Haonan Ling is part of the **Centre for Transport Engineering & Modelling** (CTEM) and the **Department of Civil & Environmental Engineering** at **Imperial College London**. His research focuses on the intersection of vehicle autonomy, multi-agent systems modelling, network optimisation and their applications to fleet operations, freight and maritime transport. &nbsp;&nbsp;&nbsp;
-</div>
-{% endif %}
