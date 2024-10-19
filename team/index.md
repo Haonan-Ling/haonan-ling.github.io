@@ -15,10 +15,10 @@ We are an interdisciplinary team of researchers passionate about innovative, rig
 
 
 
-{% if site.members.team_members.yml %}
-  <p>Members collection exists and has {{ site.members.team_members.yml | size }} members.</p>
+{% if site.members.team_members %}
+  <p>Members collection exists and has {{ site.members.team_members | size }} members.</p>
   <ul>
-    {% for member in site.members.team_members.yml %}
+    {% for member in site.members.team_members %}
       <li>{{ member.name }}</li>
     {% endfor %}
   </ul>
