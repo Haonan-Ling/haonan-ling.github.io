@@ -7,7 +7,7 @@ nav:
 
 # Opportunities
 
- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are  looking for new PhD students, Postdocs, and Master students to join the team!**
 
  ## Members
 {% assign number_printed = 0 %}
