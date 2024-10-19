@@ -9,9 +9,9 @@ nav:
 
  **We are  looking for new PhD students, Postdocs, and Master students to join the team!**
 
- ## Members
+ # Members
 {% assign number_printed = 0 %}
-{% for member in site.team.team_members %}
+{% for member in team_members %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
