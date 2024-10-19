@@ -16,9 +16,9 @@ We are an interdisciplinary team of researchers passionate about innovative, rig
 
 
 {% if site.members.team_members.yml %}
-  <p>Members collection exists and has {{ site.members.team_members | size }} members.</p>
+  <p>Members collection exists and has {{ site.members.team_members.yml | size }} members.</p>
   <ul>
-    {% for member in site.members.team_members %}
+    {% for member in site.members.team_members.yml %}
       <li>{{ member.name }}</li>
     {% endfor %}
   </ul>
