@@ -23,65 +23,42 @@ If you are interested in joining our group and would like to chat, please reach 
 We are an interdisciplinary team of researchers passionate about innovative, rigorous, and transparent science. We warmly welcome students and trainees from diverse backgrounds, fostering mutual respect and collaboration. We are committed to fairness and inclusion, ensuring that everyone feels supported and valued.
 
 
-{% assign number_printed = 0 %}
-{% for member in site.members.team_members %}
+<h2><a style="text-decoration: none; color: inherit;">Principal Investigator</a></h2>
 
-{% assign even_odd = number_printed | modulo: 2 %}
 
-{% if even_odd == 0 %}
-<div style="display: flex; flex-wrap: wrap; margin-bottom: 20px;">
-{% endif %}
 
-<p>Number of team members: {{ site.members.team_members | size }}</p>
+{% capture floatcontent %}
 
-<div style="flex: 0 0 50%; padding: 10px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/members_pic/{{ member.photo }}" style="width: 100%; height: auto; float: left;"/>
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
-  <ul style="overflow: hidden; list-style-type: none; padding: 0;">
+<div class="text-center mt-5">
+<a style="text-decoration: none; color: inherit;" href="/members/angeloudis-p.html">
 
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
-  {% endif %}
+  <!-- Avatar -->
+  <img src="/images/members_pic/Ling_Website.jpg"
+       style=" max-width: 200px; "
+       class="portrait-image"
+       />
 
-  {% if member.number_educ == 2 %}
-  <li> {{ member.education1 | markdownify}} </li>
-  <li> {{ member.education2 | markdownify}} </li>
-  {% endif %}
+  <!-- Name & Role -->
+  <div class="text-center" style="margin-top: 10px; font-weight: var(--bold); font-size: 1.2rem" > Haonan Ling </div> <br>
+  <div class="text-center" style="margin-top: -10px"> Assistant Professor, starting in Jan 2025 </div> <br>
+</a>
 
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  {% endif %}
 
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 5 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  <li> {{ member.education5 }} </li>
-  {% endif %}
-
-  </ul>
 </div>
 
-{% assign number_printed = number_printed | plus: 1 %}
+{% endcapture %}
 
-{% if even_odd == 1 %}
-</div>
-{% endif %}
+{% include float.html content=floatcontent %}
 
+
+{% assign member = site.members | where: "slug", "angeloudis-p" | first %}
+
+{% for affiliation in member.affiliations %}
+<p style="margin: 0.1px; "> -  {{ affiliation }} </p>
 {% endfor %}
 
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
+
+<a style="text-decoration: none; color: inherit;">
+Dr. Haonan Ling is part of the **Centre for Transport Engineering & Modelling** (CTEM) and the **Department of Civil & Environmental Engineering** at **Imperial College London**. His research focuses on the intersection of vehicle autonomy, multi-agent systems modelling, network optimisation and their applications to fleet operations, freight and maritime transport. &nbsp;&nbsp;&nbsp;
 </div>
 {% endif %}
