@@ -12,6 +12,8 @@ nav:
 # {% include icon.html icon="fa-solid fa-users" %}Members
 We are an interdisciplinary team of researchers passionate about innovative, rigorous, and transparent science. We warmly welcome students and trainees from diverse backgrounds, fostering mutual respect and collaboration. We are committed to fairness and inclusion, ensuring that everyone feels supported and valued.
 
+<p>Number of team members: {{ site.members.team_members | size }}</p>
+
 {% assign number_printed = 0 %}
 {% for member in site.members.team_members %}
 
