@@ -2,6 +2,7 @@
 title: Ling Lab
 subtitle: <b>L</b>ight-<b>M</b>aterials <b>I</b>nteractions for <b>S</b>emiconductoring Applications (L-MIS)
 description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
+
 header: images/UCF campus.jpg
 footer: images/UCF campus.jpg
 proofer: false
@@ -25,10 +26,10 @@ defaults:
     values:
       layout: default
   # markdown files in /_members
-  - scope:
-      type: "members"
-    values:
-      layout: member
+ # - scope:
+ #     type: "members"
+ #   values:
+ #     layout: member
   # markdown files in /_posts
   - scope:
       type: "posts"
