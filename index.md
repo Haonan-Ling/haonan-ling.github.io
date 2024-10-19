@@ -7,9 +7,9 @@ The Ling lab aims at exploring the light-matter interactions in nanoscale electr
 
 <div class="slider">
   <div class="slides">
-    <img src="2D_Materials.png" alt="Image 1">
-    <img src="Fume Hood.png" alt="Image 2">
-    <img src="Transfer Stage.png" alt="Image 3">
+    <img src="images/homeslider/2D_Materials.png" alt="Image 1">
+    <img src="images/homeslider/Fume Hood.png" alt="Image 2">
+    <img src="images/homeslider/Transfer Stage.png" alt="Image 3">
   </div>
   
   <button class="prev" onclick="plusSlides(-1)">&#10094;</button>
