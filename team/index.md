@@ -41,13 +41,13 @@ We are an interdisciplinary team of researchers passionate about innovative, rig
   <!-- Name & Role -->
   <div class="text-center" style="margin-top: 10px; font-weight: var(--bold); font-size: 1.2rem" > Haonan Ling </div> <br>
 <!-- Link to Google Scholar -->
-<a href="https://scholar.google.com/citations?hl=en&user=ujiapKkAAAAJ&view_op=list_works&sortby=pubdate">
-  <img src="https://example.com/google-scholar-icon.png" alt="Google Scholar" style="width: 24px; height: 24px; vertical-align: middle;"/>
-</a>
+<a href="https://scholar.google.com/citations?hl=en&user=ujiapKkAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">
+  <img src="/images/icons/google-scholar.svg" alt="Google Scholar" style="width: 24px; height: 24px; vertical-align: middle;"/>
+</a> &nbsp;&nbsp;&nbsp;  <!-- Three non-breaking spaces -->
 
 <!-- Link to Email -->
 <a href="mailto:haonan.ling@ucf.edu">
-  <img src="https://example.com/email-icon.png" alt="Email" style="width: 24px; height: 24px; vertical-align: middle;"/>
+  <img src="/images/icons/email.svg" alt="Email" style="width: 24px; height: 24px; vertical-align: middle;"/>
 </a>
 
 {% endcapture %}

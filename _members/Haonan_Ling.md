@@ -1,6 +1,6 @@
 ---
 name: Haonan Ling
-position: Assistant Professor
+position: Incoming assistant professor staring in Jan 2025
 image: images/member_pic/Ling_Website.jpg
 role: pi
 education: 
