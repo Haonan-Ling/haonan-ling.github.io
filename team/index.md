@@ -19,9 +19,6 @@ Motivated Master and undergraduate students, especially in engineering, chemistr
 
 If you are interested in joining our group and would like to chat, please reach out at **haonan.ling@ucf.edu**.
 
-# {% include icon.html icon="fa-solid fa-users" %}Members
-We are an interdisciplinary team of researchers passionate about innovative, rigorous, and transparent science. We warmly welcome students and trainees from diverse backgrounds, fostering mutual respect and collaboration. We are committed to fairness and inclusion, ensuring that everyone feels supported and valued.
-
 
 <h2><a style="text-decoration: none; color: inherit;">Principal Investigator</a></h2>
 
@@ -42,12 +39,12 @@ We are an interdisciplinary team of researchers passionate about innovative, rig
   <div class="text-center" style="margin-top: 10px; font-weight: var(--bold); font-size: 1.2rem" > Haonan Ling </div> <br>
 <!-- Link to Google Scholar -->
 <a href="https://scholar.google.com/citations?hl=en&user=ujiapKkAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">
-  <img src="/images/icons/google-scholar.svg" alt="Google Scholar" style="width: 24px; height: 24px; vertical-align: middle;"/>
-</a> &nbsp;&nbsp;&nbsp;  <!-- Three non-breaking spaces -->
+  <img src="/images/icons/google-scholar.svg" alt="Google Scholar" style="width: 24px; height: 24px; vertical-align: middle; display: inline-block;"/>
+</a>&nbsp;&nbsp;&nbsp;
 
 <!-- Link to Email -->
 <a href="mailto:haonan.ling@ucf.edu">
-  <img src="/images/icons/email.svg" alt="Email" style="width: 24px; height: 24px; vertical-align: middle;"/>
+  <img src="/images/icons/email.svg" alt="Email" style="width: 24px; height: 24px; vertical-align: middle; display: inline-block;"/>
 </a>
 
 {% endcapture %}
@@ -64,3 +61,10 @@ We are an interdisciplinary team of researchers passionate about innovative, rig
 
 <a style="text-decoration: none; color: inherit;">
 Dr. Haonan Ling is an incoming assistant professor in Mechanical and Aerospace Engineering department at UCF starting in Jan 2025. His research interest lies at the intersection of material science, applied physics, and optics and photonics. His PhD dissertation focuses on probing light-matter interactions in nano-structured layered van der Waals materials for advanced nanophotonic applications. He is the recipient of the Dimitris N. Chorafas Foundation Prize (2024) and Dissertation Year Fellowship at UCLA (2023). &nbsp;&nbsp;&nbsp;
+
+
+
+
+<h2><a style="text-decoration: none; color: inherit;">Members</a></h2>
+{% include list.html data="members" component="portrait" filters="role: senior" %}
+{% include list.html data="members" component="portrait" filters="role: ^(?!pi$|senior$|alumni$)" %}
