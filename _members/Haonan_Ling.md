@@ -1,5 +1,4 @@
 ---
----
 name: Haonan Ling
 position: Assistant Professor
 image: images/member_pic/Ling_Website.jpg
