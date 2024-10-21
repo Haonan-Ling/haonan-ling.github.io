@@ -64,7 +64,7 @@ Dr. Haonan Ling is an incoming assistant professor in Mechanical and Aerospace E
        />
 
   <!-- Name & Role -->
-  <div class="text-center" style="margin-top: 10px; font-weight: var(--bold); font-size: 1.2rem" > Team Openings </div> <br>
+  <div class="text-center" style="margin-top: 10px; font-weight: var(--bold); font-size: 1.2rem" > Team Openings </div> 
   <div class="text-center" style="margin-top: 10px; font-weight: 400; font-size: 1rem" > Please join us! </div>
 {% endcapture %}
 {% include float.html content=floatcontent %}
