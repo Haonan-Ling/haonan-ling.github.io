@@ -5,17 +5,17 @@ nav:
   tooltip: Musings and miscellany
 ---
 
-# {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
+<h1><div class="text-center" style="margin-top: 10px; font-weight: 450; font-size: 2.5rem" > We are hiring! </div></h1>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We welcome self-driven and curious young scientists and engineers to join our team and drive advancements in device engineering and material exploration for semiconductor technologies. Our group, along with the schools and departments of University of Central Florida (UCF), offers opportunities for interdisciplinary collaboration to help the next generation researchers grow.
 
-{% include section.html %}
+**Prospective PhD students** who are interested in joining my group are welcome to apply to the Mechanical and Aerospace Engineering department at UCF for admission in Fall 2025. Please mention our group when submitting your application materials. 
 
-{% include search-box.html %}
+We are now looking for:
+- 1 PhD student to work on **2D materials-based device research and engineering**. Past experience in nanofabrication processes, material characterization, nanophotonics and electronics* is highly desired but not necessary - a willingness to learn and take action is more important. 
+- 1 PhD student to work on **optical spectroscopy for material characterization and exploration**. Background in optics, spectroscopic and microscopic techniques, applied physics is preferred but not required - what truly matters is a strong desire to learn and take initiative.
+<!-- end of the list -->
 
-{% include tags.html tags=site.tags %}
+Motivated Master and undergraduate students, especially in engineering, chemistry, and physics, with a strong interest in learning optics, nanophotonics, spectroscopic techniques, 2D materials, and applied physics are encouraged to apply.
 
-{% include search-info.html %}
-
-{% include list.html data="posts" component="post-excerpt" %}
+If you are interested in joining our group and would like to chat, please reach out at **haonan.ling@ucf.edu**.
