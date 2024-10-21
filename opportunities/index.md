@@ -5,7 +5,7 @@ nav:
   tooltip: Musings and miscellany
 ---
 
-<h1><div class="text-center" style="text-decoration: none; color: #4287f5; margin-top: 10px; font-weight: 450; font-size: 2.5rem" > We are hiring! </div></h1>
+<h2><div class="text-center" style="text-decoration: none; color: #8ed1e6; margin-top: 10px; font-weight: 400; font-size: 2rem" > We are hiring! </div></h2>
 
 We welcome self-driven and curious young scientists and engineers to join our team and drive advancements in device engineering and material exploration for semiconductor technologies. Our group, along with the schools and departments of University of Central Florida (UCF), offers opportunities for interdisciplinary collaboration to help the next generation researchers grow.
 
