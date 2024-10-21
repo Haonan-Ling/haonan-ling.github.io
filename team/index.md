@@ -15,7 +15,7 @@ nav:
 <a style="text-decoration: none; color: inherit;">
 
   <!-- Avatar -->
-  <img src="/images/members_pic/Ling_Website.jpg"
+  <img src="/images/members_pic/Ling_Website.png"
        style=" max-width: 200px; "
        class="portrait-image"
        />
