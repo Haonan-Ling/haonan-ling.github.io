@@ -12,8 +12,7 @@ nav:
 <img src="../images/UCF campus2.jpg" alt="UCF campus" style="width:600px"/>
 </center>
 
-{% include search-box.html %}
-
-{% include search-info.html %}
+<br>
+<br>
 
 {% include list.html data="citations" component="citation" style="rich" filters="orcid: 0000-0002-5321-9968"%}
