@@ -434,7 +434,7 @@
   
 
   <section class="background" data-size="cover">
-    <p>The Ling lab aims at exploring the light-matter interactions in nanoscale electronic and photonic devices and newly emerging materials for further advancing the semiconductor technology. <strong>We are actively expanding and are currently looking for PhD, Master, and undergraduate students to join our team!</strong> Please see <a href="team">here</a> for more information.</p>
+    <p>The Ling lab aims at exploring the light-matter interactions in nanoscale electronic and photonic devices and newly emerging materials for further advancing the semiconductor technology. <strong>We are actively expanding and are currently looking for PhD, Master, and undergraduate students to join our team!</strong> Please see <a href="opportunities">here</a> for more information.</p>
 
 <div class="carousel__holder">
     <div id="carousel0" class="carousel">
@@ -445,13 +445,15 @@
         
           <input class="carousel__activator" type="radio" name="carousel0" id="0c">
         
+          <input class="carousel__activator" type="radio" name="carousel0" id="0d">
+        
         
           
           
           
           
           <div class="carousel__controls">
-              <label class="carousel__control carousel__control--backward" for="0c"></label>
+              <label class="carousel__control carousel__control--backward" for="0d"></label>
               <label class="carousel__control carousel__control--forward" for="0b"></label>
           </div>
         
@@ -470,6 +472,15 @@
           
           <div class="carousel__controls">
               <label class="carousel__control carousel__control--backward" for="0b"></label>
+              <label class="carousel__control carousel__control--forward" for="0d"></label>
+          </div>
+        
+          
+          
+          
+          
+          <div class="carousel__controls">
+              <label class="carousel__control carousel__control--backward" for="0c"></label>
               <label class="carousel__control carousel__control--forward" for="0a"></label>
           </div>
         
@@ -479,10 +490,13 @@
             <li class="carousel__slide" style="background-image: url('/images/homeslider/2D_Materials.png');">
             
             </li>
-<li class="carousel__slide" style="background-image: url('/images/homeslider/Transfer Stage.png');">
+<li class="carousel__slide" style="background-image: url('/images/homeslider/Transfer_Stage.png');">
             
             </li>
-<li class="carousel__slide" style="background-image: url('/image/shomeslider/Fume Hood.png');">
+<li class="carousel__slide" style="background-image: url('/image/shomeslider/plasma.gif');">
+            
+            </li>
+<li class="carousel__slide" style="background-image: url('/image/shomeslider/Luminescence.png');">
             
           </li>
 </ul>
@@ -495,12 +509,14 @@
             
               <label class="carousel__indicator" for="0c"></label>
             
+              <label class="carousel__indicator" for="0d"></label>
+            
         </div>
     </div>
 </div>
 
 <style>
-.carousel__holder {width: 100%; position: relative; padding-bottom: 40%; margin: 1rem 0 1rem;}
+.carousel__holder {width: 100%; position: relative; padding-bottom: 44%; margin: 1rem 0 1rem;}
 .carousel {
   height: 100%;
   width: 100%;
@@ -580,6 +596,29 @@
   opacity: 1;
 }
 .carousel__activator:nth-of-type(3):checked ~ .carousel__indicators .carousel__indicator:nth-of-type(3) {
+  opacity: 1;
+}
+
+.carousel__activator:nth-of-type(4):checked ~ .carousel__track {
+  -webkit-transform: translateX(-300%);
+          transform: translateX(-300%);
+}
+.carousel__activator:nth-of-type(4):checked ~ .carousel__slide:nth-of-type(4) {
+  transition: opacity 0.5s, -webkit-transform 0.5s;
+  transition: opacity 0.5s, transform 0.5s;
+  transition: opacity 0.5s, transform 0.5s, -webkit-transform 0.5s;
+  top: 0;
+  left: 0;
+  right: 0;
+  opacity: 1;
+  -webkit-transform: scale(1);
+          transform: scale(1);
+}
+.carousel__activator:nth-of-type(4):checked ~ .carousel__controls:nth-of-type(4) {
+  display: block;
+  opacity: 1;
+}
+.carousel__activator:nth-of-type(4):checked ~ .carousel__indicators .carousel__indicator:nth-of-type(4) {
   opacity: 1;
 }
 
@@ -667,6 +706,11 @@
           transform: translateX(200%);
 }
 
+.carousel__track .carousel__slide:nth-of-type(4) {
+  -webkit-transform: translateX(300%);
+          transform: translateX(300%);
+}
+
 
 .carousel--scale .carousel__slide {
   -webkit-transform: scale(0);
@@ -701,6 +745,12 @@
 
 .carousel__slide:nth-of-type(3),
 .carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(3) {
+  background-size: cover;
+  background-position: center;
+}
+
+.carousel__slide:nth-of-type(4),
+.carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(4) {
   background-size: cover;
   background-position: center;
 }
