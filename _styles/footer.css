@@ -21,4 +21,25 @@ footer .icon {
   font-size: var(--xl);
 }
 
+/* Container div to hold both columns */
+footer .row {
+  display: flex; /* Use flexbox to create columns */
+  background-color: #333; /* Background color for footer */
+  color: white; /* Text color */
+  padding: 20px; /* Add padding around footer */
+}
+
+/* Styling for each column */
+footer .column {
+  flex: 50%; /* Each column takes up 50% of the width */
+  padding: 10px; /* Add padding inside the columns */
+}
+
+/* Additional footer styling */
+footer {
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
+
 /*# sourceMappingURL=footer.css.map */
