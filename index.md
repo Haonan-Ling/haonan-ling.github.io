@@ -3,16 +3,17 @@
 carousels:
   - images: 
     - image: /images/homeslider/2D_Materials.png
-    - image: /images/homeslider/Transfer Stage.png
-    - image: /image/shomeslider/Fume Hood.png
+    - image: /images/homeslider/Transfer_Stage.png
+    - image: /image/shomeslider/plasma.gif
+    - image: /image/shomeslider/Luminescence.png
 
 ---
 
-The Ling lab aims at exploring the light-matter interactions in nanoscale electronic and photonic devices and newly emerging materials for further advancing the semiconductor technology. **We are actively expanding and are currently looking for PhD, Master, and undergraduate students to join our team!** Please see [here](team) for more information.
+The Ling lab aims at exploring the light-matter interactions in nanoscale electronic and photonic devices and newly emerging materials for further advancing the semiconductor technology. **We are actively expanding and are currently looking for PhD, Master, and undergraduate students to join our team!** Please see [here](opportunities) for more information.
 
 
 
-{% include carousel.html height="40" unit="%" duration="10" number="1" %}
+{% include carousel.html height="44" unit="%" duration="10" number="1" %}
 
 
 
