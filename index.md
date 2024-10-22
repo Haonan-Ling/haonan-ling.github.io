@@ -4,8 +4,8 @@ carousels:
   - images: 
     - image: /images/homeslider/2D_Materials.png
     - image: /images/homeslider/Transfer_Stage.png
-    - image: /image/shomeslider/plasma.gif
-    - image: /image/shomeslider/Luminescence.png
+    - image: /images/homeslider/plasma.gif
+    - image: /images/homeslider/Luminescence.png
 
 ---
 
