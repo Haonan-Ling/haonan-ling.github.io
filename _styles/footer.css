@@ -21,28 +21,4 @@ footer .icon {
   font-size: var(--xl);
 }
 
-/* Container div to hold both columns */
-footer .row {
-  display: flex; /* Flexbox to create columns */
-  color: white; /* Text color for footer content */
-  padding: 20px; /* Padding around footer content */
-  background-color: transparent; /* Ensure transparency */
-}
-
-/* Styling for each column */
-footer .column {
-  flex: 50%; /* Each column takes up 50% of the width */
-  padding: 10px; /* Padding inside the columns */
-}
-
-/* Transparent footer over background image */
-footer {
-  position: relative;
-  bottom: 0;
-  width: 100%;
-  background-color: transparent; /* Ensure the footer itself is transparent */
-  backdrop-filter: none; /* No blurring */
-  z-index: 2; /* Make sure it appears on top of other content */
-}
-
 /*# sourceMappingURL=footer.css.map */
