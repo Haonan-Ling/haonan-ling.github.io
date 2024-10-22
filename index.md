@@ -13,7 +13,7 @@ The Ling lab aims at exploring the light-matter interactions in nanoscale electr
 
 
 
-{% include carousel.html height="44" unit="%" duration="10" number="1" %}
+{% include carousel.html height="80" unit="%" duration="10" number="1" %}
 
 
 
