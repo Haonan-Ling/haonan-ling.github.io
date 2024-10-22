@@ -12,8 +12,11 @@
   date: '2024-03-07'
   link: https://doi.org/g8nps2
   orcid: 0000-0002-5321-9968
-  plugin: orcid.py
-  file: orcid.yaml
+  haonan-ling-list: true
+  plugin: sources.py
+  file: sources.yaml
+  type: journal
+  image: images/paper_pic/hBN_NanoLett.png
 - id: doi:10.1364/OPTICA.499059
   title: Deeply subwavelength integrated excitonic van der Waals nanophotonics
   authors:
@@ -30,8 +33,11 @@
   date: '2023-10-11'
   link: https://doi.org/g8nps3
   orcid: 0000-0002-5321-9968
-  plugin: orcid.py
-  file: orcid.yaml
+  haonan-ling-list: true
+  plugin: sources.py
+  file: sources.yaml
+  type: journal
+  image: images/paper_pic/Optica.png
 - id: doi:10.1021/acs.nanolett.2c01819
   title: Atomic-Void van der Waals Channel Waveguides
   authors:
@@ -42,8 +48,11 @@
   date: '2022-07-22'
   link: https://doi.org/g8nps4
   orcid: 0000-0002-5321-9968
-  plugin: orcid.py
-  file: orcid.yaml
+  haonan-ling-list: true
+  plugin: sources.py
+  file: sources.yaml
+  type: journal
+  image: images/paper_pic/slot_NanoLett.png
 - id: doi:10.1038/s41566-022-00981-5
   title: Light control with atomically thin magnets
   authors:
@@ -53,6 +62,7 @@
   date: '2022-03-24'
   link: https://doi.org/gr5vkt
   orcid: 0000-0002-5321-9968
+  haonan-ling-list: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/s41565-021-01023-x
@@ -85,8 +95,11 @@
   date: '2021-12-02'
   link: https://doi.org/gnpqm5
   orcid: 0000-0002-5321-9968
-  plugin: orcid.py
-  file: orcid.yaml
+  haonan-ling-list: true
+  plugin: sources.py
+  file: sources.yaml
+  type: journal
+  image: images/paper_pic/Superlattice_NatureNano.png
 - id: doi:10.1021/acsphotonics.0c01964
   title: All van der Waals Integrated Nanophotonics with Bulk Transition Metal Dichalcogenides
   authors:
@@ -97,8 +110,11 @@
   date: '2021-02-19'
   link: https://doi.org/gm8t4z
   orcid: 0000-0002-5321-9968
-  plugin: orcid.py
-  file: orcid.yaml
+  haonan-ling-list: true
+  plugin: sources.py
+  file: sources.yaml
+  type: journal
+  image: images/paper_pic/All_ACS.png
 - id: doi:10.1109/led.2020.3042310
   title: A Sub-1-V, Microwatt Power-Consumption Iontronic Pressure Sensor Based on
     Organic Electrochemical Transistors
@@ -117,6 +133,7 @@
   date: '2021-01-01'
   link: https://doi.org/gssv2w
   orcid: 0000-0002-5321-9968
+  haonan-ling-list: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/adfm.202003601
@@ -149,8 +166,11 @@
   date: '2020-09-06'
   link: https://doi.org/ghpgf6
   orcid: 0000-0002-5321-9968
-  plugin: orcid.py
-  file: orcid.yaml
+  haonan-ling-list: true
+  plugin: sources.py
+  file: sources.yaml
+  type: journal
+  image: images/paper_pic/gelatin_AFM.png
 - id: doi:10.1002/adfm.201906016
   title: "Hydrogel\u2010Enabled Transfer\u2010Printing of Conducting Polymer Films\
     \ for Soft Organic Bioelectronics"
@@ -176,8 +196,11 @@
   date: '2019-11-22'
   link: https://doi.org/ghhwcq
   orcid: 0000-0002-5321-9968
-  plugin: orcid.py
-  file: orcid.yaml
+  haonan-ling-list: true
+  plugin: sources.py
+  file: sources.yaml
+  type: journal
+  image: images/paper_pic/PEDOT_AFM.png
 - id: doi:10.1002/adma.201904752
   title: "Room\u2010Temperature\u2010Formed PEDOT:PSS Hydrogels Enable Injectable,\
     \ Soft, and Healable Organic Bioelectronics"
@@ -203,8 +226,11 @@
   date: '2019-10-28'
   link: https://doi.org/ggbxzb
   orcid: 0000-0002-5321-9968
-  plugin: orcid.py
-  file: orcid.yaml
+  haonan-ling-list: true
+  plugin: sources.py
+  file: sources.yaml
+  type: journal
+  image: images/paper_pic/PEDOT_AM.png
 - id: doi:10.1016/j.mtla.2019.100425
   title: "In-situ molten salt reaction and incorporation of small (10\u202Fnm) TiC\
     \ nanoparticles into Al"
@@ -217,8 +243,11 @@
   date: '2019-09-01'
   link: https://doi.org/g8nps5
   orcid: 0000-0002-5321-9968
-  plugin: orcid.py
-  file: orcid.yaml
+  haonan-ling-list: true
+  plugin: sources.py
+  file: sources.yaml
+  type: journal
+  image: images/paper_pic/molten_TiC.png
 - id: doi:10.1016/j.mtbio.2019.100024
   title: Three-dimensional printing of metals for biomedical applications
   authors:
@@ -245,8 +274,11 @@
   date: '2019-06-01'
   link: https://doi.org/gqvg2x
   orcid: 0000-0002-5321-9968
-  plugin: orcid.py
-  file: orcid.yaml
+  haonan-ling-list: true
+  plugin: sources.py
+  file: sources.yaml
+  type: journal
+  image: images/paper_pic/3Dprinting.png
 - id: doi:10.1016/j.promfg.2017.07.066
   title: Scalable Manufacturing of 10 nm TiC Nanoparticles through Molten Salt Reaction
   authors:
@@ -259,63 +291,29 @@
   date: '2017-01-01'
   link: https://doi.org/g8nps6
   orcid: 0000-0002-5321-9968
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
+  haonan-ling-list: true
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+  type: journal
+  image: images/paper_pic/TiC_molten.png
+- id: doi:10.1109/LED.2020.3042310
+  title: A Sub-1-V, Microwatt Power-Consumption Iontronic Pressure Sensor Based on
+    Organic Electrochemical Transistors
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
-  authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - Xiaochen Wang
+  - Xiang Meng
+  - Yangzhi Zhu
+  - Haonan Ling
+  - Yihang Chen
+  - Zhikang Li
+  - Martin C. Hartel
+  - Mehmet R. Dokmeci
+  - Shiming Zhang
+  - Ali Khademhosseini
+  publisher: IEEE Electron Device Letters
+  date: '2021-01-01'
+  link: https://doi.org/gssv2w
+  type: journal
+  image: images/paper_pic/IEEE.png
   plugin: sources.py
   file: sources.yaml
