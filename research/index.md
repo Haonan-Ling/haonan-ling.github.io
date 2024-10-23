@@ -26,7 +26,7 @@ nav:
   </div>
   <div style="flex: 1; text-align: justify; font-size: 17px;">
     <!-- Research Description -->
-    <a style="text-decoration: none; color: inherit; font-size: 22px; font-weight: 460;">Probingh Materials via Optical Spectroscopies</a><br>
+    <a style="text-decoration: none; color: inherit; font-size: 22px; font-weight: 460;">Probing Materials via Optical Spectroscopies</a><br>
     Newly emerging systems, including low-dimensional materials, phase change materials, superlattice structures, topological materials, among others, exhibit intriguing properties. Harnessing these materials can complement the existing technologies in the industry, ultimately broadening the scope of applications  and achieving enhanced device capabilities. Therefore, it is essential to gain deeper insights in the behaviors of materials. Optical spectroscopy serves as a powerful tool in this endeavor, offering a non-destructive, contactless method for material characterization and uncovering rich information at very short timescale. Understanding the fundamental properties of materials through optical spectroscopy empowers us to tailor them effectively, paving the way for improved design and functionality of future semiconductor devices.
  </div>
 </div>
