@@ -14,7 +14,7 @@ nav:
   </div>
   <div style="flex: 0; margin-left: 8rem;">
     <!-- Image aligned to the right -->
-    <img src="/images/research/Research.png" alt="Description of Image" style="max-width: 250px; float: right;">
+    <img src="/images/research/Research.png" alt="Description of Image" style="max-width: 300px; float: right;">
   </div>
 </div>
 
