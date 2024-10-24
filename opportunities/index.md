@@ -5,7 +5,7 @@ nav:
   tooltip: Musings and miscellany
 ---
 
-<h2><div class="text-center" style="text-decoration: none; text-align: center; color: #469ac7; margin-top: 5px; font-weight: 400; font-size: 2rem" > Join us! </div></h2>
+<h2><div class="text-center" style="text-decoration: none; text-align: center; color: #469ac7; font-weight: 400; font-size: 2rem" > Join us! </div></h2>
 
 
 <p style="font-size: 17px;">
