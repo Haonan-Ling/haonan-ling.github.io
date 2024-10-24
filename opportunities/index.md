@@ -18,11 +18,12 @@ We welcome self-driven and curious young scientists and engineers to join our te
 
 <p style="font-size: 18px;">
 We are now looking for:
-<ul>
-    <li>1 PhD student to work on <strong>2D materials-based device research and engineering</strong>. Past experience in nanofabrication processes, material characterization, nanophotonics, and electronics is highly desired but not necessary - a willingness to learn and take action is more important.</li>
-    <li>1 PhD student to work on <strong>optical spectroscopy for material characterization and exploration</strong>. Background in optics, spectroscopic and microscopic techniques, applied physics is preferred but not required - what truly matters is a strong desire to learn and take initiative.</li>
-</ul>
 </p>
+<ul style="font-size: 18px;">
+    <li style="font-size: 18px;">1 PhD student to work on <strong>2D materials-based device research and engineering</strong>. Past experience in nanofabrication processes, material characterization, nanophotonics, and electronics is highly desired but not necessary - a willingness to learn and take action is more important.</li>
+    <li style="font-size: 18px;">1 PhD student to work on <strong>optical spectroscopy for material characterization and exploration</strong>. Background in optics, spectroscopic and microscopic techniques, applied physics is preferred but not required - what truly matters is a strong desire to learn and take initiative.</li>
+</ul>
+
 
 <p style="font-size: 18px;">
 Motivated Master and undergraduate students, especially in engineering, chemistry, and physics, with a strong interest in learning optics, nanophotonics, spectroscopic techniques, 2D materials, and applied physics are encouraged to apply.
