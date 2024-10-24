@@ -9,7 +9,7 @@ nav:
 
 <center>
 <!-- Generated from https://shiny.rcg.sfu.ca/u/rdmorin/pubmedcloud3/ -->
-<img src="../images/publication_background.jpg" alt="publications" style="width:800px"/>
+<img src="../images/publication_background.png" alt="publications" style="width:800px"/>
 </center>
 
 
