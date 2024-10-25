@@ -22,7 +22,7 @@ nav:
 <div style="display: flex; align-items: center;">
   <div style="flex: 0; margin-right: 4rem;">
     <!-- Images of optical spectroscopy of novel materials -->
-     <img src="/images/research/Project1.png" alt="Description of Image" style="max-width: 300px; float: left;">
+     <img src="/images/research/Project1.png" alt="Description of Image" style="max-width: 350px; float: left;">
   </div>
   <div style="flex: 1; text-align: justify; font-size: 17px;">
     <!-- Research Description -->
@@ -37,7 +37,7 @@ nav:
 <div style="display: flex; align-items: center;">
   <div style="flex: 0; margin-right: 4rem;">
     <!-- Images of different devices -->
-     <img src="/images/research/Project2.png" alt="Description of Image" style="max-width: 300px; float: left;">
+     <img src="/images/research/Project2.png" alt="Description of Image" style="max-width: 350px; float: left;">
   </div>
   <div style="flex: 1; text-align: justify; font-size: 17px;">
     <!-- Research Description -->
