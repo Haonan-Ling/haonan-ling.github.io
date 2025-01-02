@@ -43,7 +43,7 @@ nav:
 
 
 <a style="text-decoration: none; color: inherit; font-size: 17px;">
-Dr. Haonan Ling is an incoming assistant professor in Mechanical and Aerospace Engineering department at UCF starting in Jan 2025. His research interest lies at the intersection of material science, applied physics, and optics and photonics. His PhD dissertation focuses on probing light-matter interactions in nano-structured layered van der Waals materials for advanced nanophotonic applications. He is the recipient of the Dimitris N. Chorafas Foundation Prize (2024) and Dissertation Year Fellowship at UCLA (2023). &nbsp;&nbsp;&nbsp;
+Dr. Haonan Ling is an assistant professor in Mechanical and Aerospace Engineering department at UCF starting in Jan 2025. His research interest lies at the intersection of material science, applied physics, and optics and photonics. His PhD dissertation focuses on probing light-matter interactions in nano-structured layered van der Waals materials for advanced nanophotonic applications. He is the recipient of the Dimitris N. Chorafas Foundation Prize (2024) and Dissertation Year Fellowship at UCLA (2023). &nbsp;&nbsp;&nbsp;
 
 
 
