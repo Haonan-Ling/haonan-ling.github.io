@@ -9,19 +9,20 @@ title: Opportunities
 
 
 <p style="font-size: 17px;">
-We welcome self-driven and curious young scientists and engineers to join our team and drive advancements in device engineering and material exploration for semiconductor technologies. Our group, along with the schools and departments of University of Central Florida (UCF), offers opportunities for interdisciplinary collaboration to help the next generation researchers grow.
+We welcome self-driven and curious young scientists and engineers to join our team and drive advancements in device engineering and material exploration for semiconductor technologies. Our group, along with the colleges and departments of University of Central Florida (UCF), offers opportunities for interdisciplinary collaboration to help the next generation researchers grow.
 </p>
 
 <p style="font-size: 17px;">
-<strong>Prospective PhD students</strong> who are interested in joining my group are welcome to apply to the Mechanical and Aerospace Engineering department at UCF for admission in Fall 2025. Please mention our group when submitting your application materials.
+<strong>Prospective PhD students</strong> who are interested in joining my group are welcome to apply to the Mechanical and Aerospace Engineering department at UCF for admission in Fall 2026 and Spring 2027. Please mention our group when submitting your application materials.
 </p>
 
-<p style="font-size: 17px;">
-We are now looking for:
+<p style="font-size: 17px; margin-bottom:1px;">
+We particularly welcome applicants with strong foundations in one or more of the following areas to apply:
 </p>
 <ul style="font-size: 17px;">
-    <li style="font-size: 17px;">1 PhD student to work on <strong>2D materials-based device research and engineering</strong>. Past experience in nanofabrication processes, material characterization, nanophotonics, and electronics is highly desired but not necessary - a willingness to learn and take action is more important.</li>
-    <li style="font-size: 17px;">1 PhD student to work on <strong>optical spectroscopy for material characterization and exploration</strong>. Background in optics, spectroscopic and microscopic techniques, applied physics is preferred but not required - what truly matters is a strong desire to learn and take initiative.</li>
+    <li style="font-size: 17px;">Material Science, Solid-State and Quantum Physics</li>
+    <li style="font-size: 17px;">Electronic and Optoelectronic Devices, Optics and Photonics</li>
+    <li style="font-size: 17px;">Micro/Nano-Fabrication, Alloy, Metallic, or Ceramic Materials Processing</li>
 </ul>
 
 

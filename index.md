@@ -9,19 +9,20 @@ carousels:
 
 ---
 <p style="font-size: 17px;">
-The Ling lab aims at exploring the light-matter interactions in nanoscale electronic and photonic devices and newly emerging materials for further advancing the semiconductor technology. <strong>We are actively expanding and are currently looking for PhD, Master, and undergraduate students to join our team!</strong> Please see <a href="opportunities">here</a> for more information.
+The Ling lab aims at exploring the use of newly emerging materials in the application of optoelectronic and photonic devices, energy harvesting and storage, and quantum information science. <strong>We are actively expanding and are currently looking for PhD, Master, and undergraduate students to join our team!</strong> Please see <a href="opportunities">here</a> for more information.
 </p>
 
 {% include carousel.html height="45" unit="%" duration="10" number="1" %}
 
 
 <p style="font-size: 17px;">
-We are a new, growing research group residing in the <a href="https://mae.ucf.edu/">Mechanical and Aerospace Engineering Department</a> at UCF. There are two major research thrusts in our lab:
+We are a new, growing research group residing in the <a href="https://mae.ucf.edu/">Mechanical and Aerospace Engineering Department</a> at UCF. There are three research interests in our lab:
 </p>
 
 <ul style="font-size: 17px;">
-    <li style="font-size: 17px;">Design, fabrication, and characterization of electronic and photonic devices based on novel material systems, including low-dimensional materials, phase change materials, superlattice structures, with improved capabilities.</li>
-    <li style="font-size: 17px;">Understanding the energy transfer mechanism in newly emerging material platforms such as layered van der Waals materials via optical spectroscopic and microscopic techniques.</li>
+    <li style="font-size: 17px;">Exploration of emerging van der Waals materials in nonlinear and quantum optics</li>
+    <li style="font-size: 17px;">Processing and characterization of novel materials for electronic devices</li>
+    <li style="font-size: 17px;">Composite materials for extreme environments</li>
 </ul>
 
 <p style="font-size: 17px;">
