@@ -72,7 +72,6 @@ This ensures our custom "Team Openings" card sits in the same row.
 {% capture portraits %}
   {% include list.html data="members" component="portrait" filters="role: (phd|undergrad|summer|assistant)" %}
 {% endcapture %}
-<pre>CAPTURE SIZE: {{ portraits | size }}</pre>
 
 <div class="members-row">
   {{ portraits | strip }}
