@@ -1,5 +1,45 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1038/s41565-025-01992-3
+  title: Enhancing spectroscopy and microscopy with emerging methods in photon correlation
+    and quantum illumination
+  authors:
+  - Chieh Tsao
+  - Haonan Ling
+  - Alex Hinkle
+  - Yifan Chen
+  - Keshav Kumar Jha
+  - Zhen-Li Yan
+  - Hendrik Utzat
+  publisher: Nature Nanotechnology
+  date: '2025-08-01'
+  link: https://doi.org/g9zp38
+  orcid: 0000-0002-5321-9968
+  haonan-ling-list: true
+  plugin: sources.py
+  file: sources.yaml
+  type: journal
+  image: images/paper_pic/Quantum_Spectroscopy.png
+- id: doi:10.1021/acs.nanolett.5c00952
+  title: Nonlinear van der Waals Metasurfaces with Resonantly Enhanced Light Generation
+  authors:
+  - Haonan Ling
+  - Yuankai Tang
+  - Xinyu Tian
+  - Pavel Shafirin
+  - Mozakkar Hossain
+  - Polina P. Vabishchevich
+  - Hayk Harutyunyan
+  - Artur R. Davoyan
+  publisher: Nano Letters
+  date: '2025-05-26'
+  link: https://doi.org/g93n9g
+  orcid: 0000-0002-5321-9968
+  haonan-ling-list: true
+  plugin: sources.py
+  file: sources.yaml
+  type: journal
+  image: images/paper_pic/3R_MoS2_metasurface.png
 - id: doi:10.1021/acs.nanolett.3c04118
   title: "Near-Unity Light\u2013Matter Interaction in Mid-Infrared van der Waals Metasurfaces"
   authors:

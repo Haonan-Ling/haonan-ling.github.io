@@ -1,8 +1,8 @@
 ---
 title: Opportunities
-nav:
-  order: 4
-  tooltip: Musings and miscellany
+#nav:
+ # order: 5
+ # tooltip: Musings and miscellany
 ---
 
 <h2><div class="text-center" style="text-decoration: none; text-align: center; color: #469ac7; font-weight: 400; font-size: 2rem" > Join us! </div></h2>

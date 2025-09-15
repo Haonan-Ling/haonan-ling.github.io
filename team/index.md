@@ -47,22 +47,59 @@ Dr. Haonan Ling is an assistant professor in Mechanical and Aerospace Engineerin
 
 
 
-<h2><a style="text-decoration: none; color: inherit;">Members</a></h2>
+<h2 style="text-align:left !important; text-decoration:none; color:inherit;">Members</h2>
+<style>
+  /* A left-aligned, wrapping row for cards */
+  .members-row{
+    display:flex;
+    flex-wrap:wrap;
+    gap:24px;
+    align-items:flex-start;
+    justify-content:flex-start; /* left */
+  }
+  /* Typical card width; adjust to match your theme’s portrait size */
+  .members-row > *{
+    flex: 0 0 auto; /* don't stretch */
+  }
+  /* Kill inherited centering from theme classes inside this row */
+  .members-row .text-center{ text-align:left; }
+</style>
 
-
-{% capture floatcontent %}                                                                                                        
-
-<div class="text-center mt-5">
-<a style="text-decoration: none; color: inherit;">
-
-  <!-- Avatar -->
-  <img src="/images/members_pic/knightro.png"
-       style=" max-width: 200px; "
-       class="portrait-image"
-       />
-
-  <!-- Name & Role -->
-  <div class="text-center" style="margin-top: 10px; font-weight: var(--bold); font-size: 1.2rem" > Team Openings </div> 
-  <div class="text-center" style="margin-top: 10px; font-weight: 400; font-size: 1rem" > Please join us! </div>
+{% comment %}
+Capture the include's HTML so we can place it as children of our flex row.
+This ensures our custom "Team Openings" card sits in the same row.
+{% endcomment %}
+{% capture portraits %}
+  {% include list.html data="members" component="portrait" filters="role: (phd|undergrad|summer|assistant)" %}
 {% endcapture %}
-{% include float.html content=floatcontent %}
+
+<div class="members-row">
+  {{ portraits | strip }}
+
+  <!-- Team Openings card -->
+  <div class="text-center" style="width:210px;">
+    <a style="text-decoration:none; color:inherit;">
+      <img src="/images/members_pic/knightro.png"
+           alt="Team Openings"
+           class="portrait-image"
+           style="max-width:210px; display:block; margin:10px auto 0;" />
+      <div style="margin-top:2px; font-weight:var(--bold,700); font-size:1.2rem; text-align:center;">
+        <a href="/opportunities" style="text-decoration:none; color:inherit;">
+      Team Openings
+    </a>
+      </div>
+      <div style="margin-top:3px; font-weight:400; font-size:1rem; text-align:center;">
+        Please join us!
+      </div>
+    </a>
+  </div>
+</div>
+
+<h2><a style="text-decoration: none; color: inherit;">Alumni</a></h2>
+<p style="font-size: 20px; font-weight: 470; margin-bottom: 1px;">
+Undergraduate Research Assistant
+</p>
+<p style="font-size: 17px; margin-top: 0; display: flex; gap: 40px;">
+  <span>Monica Clicquot (Mechanical Engineering)</span>
+  <span>01/2025–08/2025</span>
+</p>
