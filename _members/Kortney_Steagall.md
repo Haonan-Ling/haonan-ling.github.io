@@ -1,6 +1,6 @@
 ---
 name: Kortney Steagall
-image: images/member_pic/Kortney_website.jpg
+image: images/member_pic/Kortney.jpg
 role: undergrad
 affiliation: Aerospace Engineering, UCF
 ---
