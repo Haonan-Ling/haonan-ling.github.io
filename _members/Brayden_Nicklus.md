@@ -1,6 +1,6 @@
 ---
 name: Brayden Nicklus
-image: images/member_pic/Brayden_website.jpg
+image: images/member_pic/Brayden.jpg
 role: undergrad
 affiliation: Mechanical Engineering, UCF
 ---
