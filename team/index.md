@@ -2,7 +2,7 @@
 title: Team
 nav:
   order: 3
-  tooltip: About our team
+  tooltip: Current and past team members
 ---
 
 <h2><a style="text-decoration: none; color: inherit;margin-top: 5px;">Principal Investigator</a></h2>
